@@ -16,7 +16,7 @@ public class BT1 {
 		tich = a*b*c ; 
 		System.out.println("tong cua ba so nguyen la: " + tong);
 		System.out.println("tich cua ba so nguyen la: " + tich );
-		System.out.println("concac" );
+		
 		
 	} 
 
